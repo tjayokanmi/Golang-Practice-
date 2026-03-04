@@ -11,5 +11,5 @@ func main() {
 }
 
 func changeValue(x *int) {
-	*x = 7
+	*x = 89
 }
